@@ -18,6 +18,11 @@ Takım 55
 ## Ürün Açıklaması
 MeetNote AI, toplantı notlarını yapay zeka desteğiyle özetleyen web tabanlı bir uygulamadır. Kullanıcılar toplantı metinlerini veya notlarını sisteme girerek toplantı özeti, alınan kararlar ve aksiyon maddelerini hızlı bir şekilde görüntüleyebilir. Bu sayede toplantı sonrası not çıkarma süreci daha düzenli, hızlı ve verimli hale getirilir.
 
+## Canlı Site
+🔗 **[meetnote.site](https://meetnote.site)**
+
+![MeetNote AI ürün görseli](docs/images/product-visual.jpg)
+
 ## Ürün Özellikleri
 - Toplantı notu veya transkript girişi yapabilme
 - Yapay zeka destekli toplantı özeti oluşturma
