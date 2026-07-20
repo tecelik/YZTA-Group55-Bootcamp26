@@ -220,6 +220,13 @@ Sprint 2 sonunda ürün, planlama aşamasından çıkıp **çalışan, canlı bi
 
 ![Ekip bölümü](docs/images/screenshot-team.png)
 
+## Daily Scrum
+Sprint 2 boyunca ekip içi iletişim, ekibin ortak WhatsApp grubu üzerinden yürütülmüştür. Ekip üyeleri geliştirme sürecindeki ilerlemeyi, alan adı kararını ve canlıya alma sürecini bu kanal üzerinden paylaşmıştır (gizlilik amacıyla telefon numaraları kapatılmıştır).
+
+![Daily Scrum ekran görüntüsü 1](docs/images/sprint2-daily-scrum-1.png)
+
+![Daily Scrum ekran görüntüsü 2](docs/images/sprint2-daily-scrum-2.png)
+
 ## Sprint Review
 Sprint 2 sonunda ekip, canlıya alınan ürünü birlikte değerlendirmiştir. Sprint 1'de hedeflenen "temel frontend ekranlarının ve yapay zeka entegrasyonunun geliştirilmesi" hedefine ulaşılmış, bunun ötesinde ürün production ortamına taşınarak gerçek kullanıcıların erişebileceği bir aşamaya getirilmiştir.
 
